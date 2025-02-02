@@ -1,0 +1,103 @@
+{
+    "name": "Aleksa",
+    "role": "student",
+    "about_me": "I am a fourth-year student at the Faculty of Organizational Sciences, majoring in Informational Systems and Technologies. I have been interested in information technology since childhood, and I believe I will continue to pursue it. I am passionate about how technology can help organizations operate more efficiently, make better decisions, and stay competitive. I enjoy exploring ways businesses can enhance their strategies and processes through data and effective tools. My goal is to contribute to the smart use of modern solutions, helping organizations adapt and thrive in an ever-evolving environment.",
+    "work_experience": [
+      {
+        "internship": "High School",
+        "position": "Frontend 3 weeks internship",
+        "date": "July 2020 to August 2020",
+        "company": "Croonus Technology DOO, Čačak",
+        "skills_learned": [
+          "HTML, CSS, and jQuery (Basics)",
+          "Working in a team with others",
+          "Finding optimal solutions regarding time and algorithms",
+          "Time management and organization"
+        ]
+      },
+      {
+        "internship": "University",
+        "position": "Integration Architect Internship",
+        "company": "STADA GIS Serbia",
+        "date": "February 2023 to August 2024",
+        "skills_learned": [
+          "SAP - Acquired foundational knowledge of SAP environments, and basics about ERP systems.",
+          "Enterprise Architecture - working with an enterprise and solution architect on daily basis, helped me to learn a lot about architecture frameworks, design principles, and planning solutions.",
+          "LeanIX - Maintaining and ensuring the accuracy and quality of data related to interfaces.",
+          "Data Analytics - Worked with data and created visualizations in the Power BI environment.",
+          "Architect - Designed data flow diagrams related to interfaces.",
+          "More project participations - SAP Trading Partner Management and API Management in SAP Integration Suite environment."
+        ]
+      }
+    ],
+    "student_organizations": [
+      {
+        "organization": "FONIS",
+        "date": "October 2023 to November 2024",
+        "projects_and_teams": [
+          "HR Team for Project C2S (Companies to Students)",
+          "Design Team for S2S (Students to Companies)",
+          "Logistics Team for HZS (Hackathon for High Schoolers)",
+          "Corporate Relations Team (Students to Students)"
+        ]
+      },
+      {
+        "organization": "Student Union of the Faculty of Organizational Sciences",
+        "date": "October 2023 to November 2024",
+        "projects_and_teams": [
+          "IT & Design Team for DP (Practice Days)",
+          "IT & Design Team for GreenWay",
+          "IT & Design Team for Sport Bizz",
+          "IT & Design Team for KSON"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "level": "University",
+        "institution": "Belgrade University, Faculty of Organizational Sciences (FON)",
+        "course": "Informational Systems and Technologies",
+        "date": "Since 2021"
+      },
+      {
+        "level": "High School",
+        "institution": "Čačak Technical School",
+        "course": "Informational Technology",
+        "date": "2017 to 2021"
+      }
+    ],
+    "skills": {
+      "hard_skills": [
+        "Adobe Photoshop, Illustrator",
+        "HTML, CSS, JavaScript",
+        "Statistical and Data Analysis",
+        "Database and SQL",
+        "Java, C, C#",
+        "Python, Pandas",
+        "Computer Networking"
+      ],
+      "soft_skills": [
+        "Critical Thinking",
+        "Time Management",
+        "Problem-Solving",
+        "Communication Skills"
+      ]
+    },
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Serbian",
+        "proficiency": "Fluent"
+      }
+    ],
+    "contact": {
+      "phone_number": "+381 60333 4933",
+      "email": "aleksa.ljujic2@gmail.com",
+      "linkedin_profile": "www.linkedin.com/in/aleksaljujic",
+      "github_profile": "github.com/aleksaljujic"
+    }
+  }
+  

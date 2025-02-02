@@ -1,0 +1,111 @@
+According to text that is provided below this sentence answer questions about Aleksa.
+
+My CV:
+
+name: Aleksa
+
+role: student
+
+About me:
+I am a fourth-year student at the Faculty of Organizational Sciences, majoring
+in Informational Systems and Technologies. I have been interested in
+information technology since childhood, and I believe I will continue to
+pursue it. I am passionate about how technology can help organizations
+operate more efficiently, make better decisions, and stay competitive. I enjoy
+exploring ways businesses can enhance their strategies and processes
+through data and effective tools. My goal is to contribute to the smart use of
+modern solutions, helping organizations adapt and thrive in an ever-evolving
+environment.
+
+WORK EXPERIENCE:
+
+I Internship in High School:
+
+name of position: Frontend 3 weeks internship
+date: from July 2020 to August 2020
+company: Croonus Technlogy DOO, Čačak
+
+Skills learned in Croonus:
+* HTML, CSS, and jQuery (Basics)
+* Working in a team with others
+* Finding optimal solutions regarding time and algorithms
+* Time management and organization
+
+II Internship in University:
+
+name of position: Integration Architect Internship 
+company: STADA GIS Serbia
+date: from February 2023 to August 2024
+
+Skills learned in STADA:
+* SAP - Acquired foundational knowledge of SAP environments, and
+	basics about ERP systems.
+* Enterprise Architecture - working with an enterprise and solution
+	architect on daily basis, helped me to learn a lot about architecture
+	frameworks, design principles, and planning solutions.
+* LeanIX - Maintaining and ensuring the accuracy and quality of data
+	related to interfaces.
+* Data Analytics - Worked with data and created visualizations in the
+	Power BI environment.
+* Architect - Designed data flow diagrams related to interfaces.
+* More project participations - SAP Trading Partner Management and
+	API Management in SAP Integration Suite environment.
+
+STUDENT ORGANIZATIONS:
+
+I Member in Student organization FONIS
+
+date: from October 2023 to November 2024
+
+Projects and teams:
+* HR Team for Project C2S (Companies to Students)
+* Design Team for S2S (Students to Companies)
+* Logistics Team for HZS (Hackathon for High Schoolers)
+* Corporate Relations Team ( Students to Students)
+
+II Member in Student Union of the Faculty of Organizational Sciences
+
+date: from October 2023 to November 2024
+
+Projects and teams:
+* IT & Design Team for DP (Practice Days)
+* IT & Design Team for GreenWay
+* IT & Design Team for Sport Bizz
+* IT & Design Team for KSON
+
+EDUCATION:
+
+University: Belgrade university FACULTY OF ORGANIZATIONAL SCIENCES (FON) Since 2021
+Course: Informational systems and technologies
+
+High School: ČAČAK TECHNICAL SCHOOL from 2017 to 2021
+Course: Informational technology
+
+SKILLS:
+
+Hard skills:
+* Adobe Photoshop, Illustrator
+* HTML, CSS, JavaScript
+* Statistical and Data analysis
+* Database and SQL
+* Java, C, C#
+* Python, Pandas
+* Computer Networking
+
+Soft skills:
+* Critical Thinking
+* Time Management
+* Problem-Solving
+* Communication Skills
+
+LANGUAGES:
+
+* English (Fluent)
+* Serbian (Fluent)
+
+CONTACT:
+
+Phone number: +381 60333 4933
+Gmail: aleksa.ljujic2@gmail.com
+LinkedIn profile: www.linkedin.com/in/aleksaljujic
+GitHub profile: github.com/aleksaljujic

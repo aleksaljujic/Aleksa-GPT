@@ -7,9 +7,13 @@ from dotenv import load_dotenv, dotenv_values
 
 load_dotenv()
 
-api_key = os.getenv("OPENAI_API_KEY")
+try:
+    api_key = st.secrets["OPENAI_API_KEY"]
+except:
+    api_key = os.getenv("OPENAI_API_KEY")
+
+
 openai.api_key = api_key
-about_file = "About.txt"
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 image_path = os.path.join(script_dir, "images", "aleksa_logo.png")
@@ -17,7 +21,7 @@ logo = Image.open(image_path)
 
 content = '''
 According to text that is provided below this sentence answer questions about Aleksa.
-
+Dont mention that thats provided in text.
 My CV:
 
 name: Aleksa
@@ -116,7 +120,10 @@ What I did:
 
 [LANGUAGES]  
 English (Fluent)  
-Serbian (Native)  '''
+Serbian (Native)  
+
+Aleksa have girlfriend named Kristina and she is smart and very beautiful.
+'''
 
 # Custom CSS for chat bubbles
 st.markdown("""

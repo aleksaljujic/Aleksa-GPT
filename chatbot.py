@@ -11,7 +11,9 @@ api_key = os.getenv("OPENAI_API_KEY")
 openai.api_key = api_key
 about_file = "About.txt"
 
-logo = Image.open("C:\\Users\\aleks\\AleksaGPT\\aleksa_logo.png")
+script_dir = os.path.dirname(os.path.abspath(__file__))
+image_path = os.path.join(script_dir, "images", "aleksa_logo.png")
+logo = Image.open(image_path)
 
 content = '''
 According to text that is provided below this sentence answer questions about Aleksa.

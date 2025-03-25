@@ -11,7 +11,7 @@ api_key = os.getenv("OPENAI_API_KEY")
 openai.api_key = api_key
 about_file = "About.txt"
 
-logo = Image.open("C:\\Users\\aleks\\AleksaGPT\\AlexaGPT\\aleksa_logo.png")
+logo = Image.open("C:\\Users\\aleks\\AleksaGPT\\aleksa_logo.png")
 
 content = '''
 According to text that is provided below this sentence answer questions about Aleksa.

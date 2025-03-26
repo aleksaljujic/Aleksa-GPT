@@ -121,8 +121,6 @@ What I did:
 [LANGUAGES]  
 English (Fluent)  
 Serbian (Native)  
-
-Aleksa have girlfriend named Kristina and she is smart and very beautiful.
 '''
 
 # Custom CSS for chat bubbles

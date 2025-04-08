@@ -83,6 +83,3 @@ Aleksa Ljujić
 - LinkedIn: https://www.linkedin.com/in/aleksaljujic
 <<<<<<< HEAD
 - GitHub: https://github.com/aleksaljujic
-=======
-- GitHub: https://github.com/aleksaljujic
->>>>>>> 9fe07f437fda491d0a536f585303a7b016d0f0d7
